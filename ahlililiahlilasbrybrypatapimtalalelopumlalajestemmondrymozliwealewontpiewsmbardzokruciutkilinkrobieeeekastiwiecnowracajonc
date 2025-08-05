@@ -1,2 +1,1 @@
-__instance.enabled = true;
-UnityEngine.Object.Instantiate<GameObject>(__instance.itemPrefab, __instance.itemRoot).GetComponent<RankItemHelper>().SetData(1, "<#0ff>ElitereK W?<#fc0><sup>[DEV]", 1, "PL", __instance.crownSprite, PlatformType.CROSS_PLATFORM);
+g
